@@ -1,6 +1,6 @@
 export interface Board {
     id: string;
-    tilte: string;
+    title: string;
     description: string;
     status: ;
 }
