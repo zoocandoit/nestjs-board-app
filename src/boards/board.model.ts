@@ -2,7 +2,7 @@ export interface Board {
     id: string;
     title: string;
     description: string;
-    status: ;
+    status: BoardStatus.PUBLIC;
 }
 
 export enum BoardStatus{
